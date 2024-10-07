@@ -26,10 +26,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GameFeatures",
-			"Enabled": true
-		},
-		{
 			"Name": "GameplayAbilities",
 			"Enabled": true
 		},
@@ -38,16 +34,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "CommonLoadingScreen",
-			"Enabled": false
-		},
-		{
 			"Name": "CommonGame",
 			"Enabled": true
-		},
-		{
-			"Name": "GameSettings",
-			"Enabled": false
 		},
 		{
 			"Name": "UIExtension",
@@ -55,6 +43,18 @@
 		},
 		{
 			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "AsyncMixin",
+			"Enabled": true
+		},
+		{
+			"Name": "GameSubtitles",
+			"Enabled": true
+		},
+		{
+			"Name": "PocketWorlds",
 			"Enabled": true
 		}
 	]
