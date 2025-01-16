@@ -13,7 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe830d97-e77d-4e43-b7b1-71cdd642dbeb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/Player/WB_HealthBar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/Player/WB_HealthBar.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RoguelikePrototype/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RoguelikePrototype/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/Player/WB_Hud.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/Player/WB_Hud.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,6 +166,8 @@
       <workItem from="1731965313227" duration="126000" />
       <workItem from="1731966149020" duration="1896000" />
       <workItem from="1736193615564" duration="6000" />
+      <workItem from="1736261521008" duration="30000" />
+      <workItem from="1736867546070" duration="2031000" />
     </task>
     <servers />
   </component>
